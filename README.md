@@ -6,11 +6,14 @@ Obtain data from Census Reporter: https://censusreporter.org/data/table/?table=B
 Contains Poverty Status in the Past 12 Months by Sex by Age (Hispanic or Latino) for all Texas Counties (2020 Census) 
 Table B17001I
 
+license: MIT License
 libraries needed for jupyterNotebook/jupyterLab: pandas, geopandas, matplotlib
 
 Data: I used the geojson file to download the data to be able to make spatial analysis on this data set since it include the geometry coordinates
 Data is can also be obtained through : https://data.world/dv9297/dccddaliavazquezmappingtexaslatinospovertylevels
 Data set is also publishesd here: https://data.world/dv9297/datacollectionandcuration-dv9297
+Data Attribues include: Total Latinos Population Living Below Poverty Level and above poverty level, Total Male and Female population living below poverty, Age groups by gender, County Name and County Coordinates.
+GeoJson : GeoJSON is an open standard geospatial data interchange format that represents simple geographic features and their nonspatial attributes. (ArcGIS Pro)
 
 Goal: My goal was to create a map that demonstrated the percent of Male/Female Latino/as living below the poverty rate for each county in Texas. 
 
