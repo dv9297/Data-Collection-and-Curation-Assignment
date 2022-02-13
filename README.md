@@ -22,4 +22,8 @@ Results:
 The Map of Latinas living below poverty demonstrates that there is a high concentration of poverty near the coastal counties of Texas as well as the valley/border counties of Texas. Similiar to the Latinas the male Latino map demonstrates that there is a high concentration of of people living below poverty level in the coastal and border counties of Texas. The only signinficant change here is that the male map has a high rate of poverty in central and western counties of Texas.
 
 Conclusions: 
-There has been exponential growth in the Latino population in the last few decades. Seeing higher concentrations of Latinos living below poverty level is not new or surprising since there 
+There has been exponential growth in the Latino population in the last few decades. Seeing higher concentrations of Latinos living below poverty level is not new or surprising since in the past few years the costal counties of Texas have suffered multiple natural disaster and flooding, leaving families in really hard living situations. The same applies for the counties near the valley where major flooding occurs. As for central Texas we see the cost of living rising making it really hard for Latino/as to live above the poverty level. 
+
+Limitations:
+
+I did not include the non-Hispanic groups into the analysis, this analysis was purely a comparison within the Latino population. Therefore this analysis might not be very impactful if you wanted to compare these to other populations. 
