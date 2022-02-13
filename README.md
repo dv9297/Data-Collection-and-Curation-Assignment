@@ -17,3 +17,9 @@ Process: I used the geojson file to filter out all the columns I wanted. Which o
 Once I cleaned the data set I normalized the data set by dividing the total female population living below poverty by the total population living below poverty and then multiplied it by 100 to get the percent. I did this for male and female in a new column. 
 
 Visualization: In order to visualize both population percents I created subplots to see both populations side by side in a Choropleth style map to demonstrate the significant percent diffrences. 
+
+Results:
+The Map of Latinas living below poverty demonstrates that there is a high concentration of poverty near the coastal counties of Texas as well as the valley/border counties of Texas. Similiar to the Latinas the male Latino map demonstrates that there is a high concentration of of people living below poverty level in the coastal and border counties of Texas. The only signinficant change here is that the male map has a high rate of poverty in central and western counties of Texas.
+
+Conclusions: 
+There has been exponential growth in the Latino population in the last few decades. Seeing higher concentrations of Latinos living below poverty level is not new or surprising since there 
