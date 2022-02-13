@@ -9,6 +9,7 @@ Table B17001I
 libraries needed for jupyterNotebook/jupyterLab: pandas, geopandas, matplotlib
 
 Data: I used the geojson file to download the data to be able to make spatial analysis on this data set since it include the geometry coordinates
+Data is can also be obtained through : https://data.world/dv9297/dccddaliavazquezmappingtexaslatinospovertylevels
 
 Goal: My goal was to create a map that demonstrated the percent of Male/Female Latino/as living below the poverty rate for each county in Texas. 
 
